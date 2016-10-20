@@ -10,11 +10,11 @@ html {
 img {
   display: block;
   width: 100%;
-
+  max-width: 40em;
 }
 
 body {
-  display: inline;
+  display: inline-block;
   font-family: "Lato", sans-serif;
   text-align: left;
   margin: 0;

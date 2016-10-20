@@ -23,6 +23,7 @@ body {
 
 div h2 p {
   display: inline;
+  vertical-align: middle;
 }
 
 h2 {

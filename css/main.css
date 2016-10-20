@@ -10,7 +10,7 @@ html {
 img {
   display: block;
   width: 100%;
-  max-width: 40em;
+  max-width: 25em;
 }
 
 body {
@@ -42,7 +42,7 @@ p {
   display: inline-block;
   text-align: center;
   border: 1rem;
-  border-color: #333;
+  border-color: #333 solid;
   border-radius: 4px;
   padding:0.4em 0.75em 0.5em;
 }

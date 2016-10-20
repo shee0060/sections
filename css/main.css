@@ -7,7 +7,7 @@ html {
 }
 
 img {
-  display: inline-block;
+  display: block;
   width: 100%;
 }
 
@@ -21,4 +21,8 @@ h2 {
 
 p {
   display: inline-block;
+}
+
+nav {
+  text-align: center;
 }

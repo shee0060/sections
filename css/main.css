@@ -31,4 +31,6 @@ p {
 
 .btn {
   text-align: center;
+  border: 2em;
+  padding: 1em; 
 }

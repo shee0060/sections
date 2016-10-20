@@ -7,5 +7,18 @@ html {
 }
 
 img {
+  display: inline-block;
   width: 100%;
+}
+
+body {
+  text-align: left;
+}
+
+h2 {
+  display: inline-block;
+}
+
+p {
+  display: inline-block;
 }

@@ -42,7 +42,10 @@ p {
   display: inline-block;
   text-align: center;
   border: 1rem;
-  border-color: #333 solid;
+  border-top: #333 solid;
+  border-bottom: #333 solid;
+  border-right: #333 solid;
+  border-left: #333 solid;
   border-radius: 4px;
   padding:0.4em 0.75em 0.5em;
 }

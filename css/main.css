@@ -30,7 +30,8 @@ p {
 }
 
 .btn {
+  display: inline-block;
   text-align: center;
   border: 2em;
-  padding: 1em; 
+  padding: 1em;
 }

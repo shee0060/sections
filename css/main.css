@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  background-color: #f2f2f2;
 }
 
 *, *::before, *::after {
@@ -27,7 +28,7 @@ h2 {
 p {
   display: inline-block;
   max-width: 25em;
-  padding: 0.4em 0.75em 0.5em;
+  padding: 2em;
 }
 
 .btn {

@@ -22,14 +22,13 @@ body {
 }
 
 div {
-  display: inline-block;
+  display: inline;
 }
 
 h2 {
   display: inline-block;
   line-height: 1.5;
   padding: 0.4em 0.75em 0.5em;
-  margin: 0;
 }
 
 p {

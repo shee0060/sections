@@ -21,17 +21,20 @@ body {
 h2 {
   display: inline-block;
   line-height: 1.5;
+  padding: 0.4em 0.75em 0.5em;
 }
 
 p {
   display: inline-block;
   line-height: 1.5;
   max-width: 25em;
+  padding: 0.4em 0.75em 0.5em;
 }
 
 .btn {
   display: inline-block;
   text-align: center;
   border: 2em;
+  border-color: #666;
   padding: 1em;
 }

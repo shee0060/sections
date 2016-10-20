@@ -12,7 +12,7 @@ img {
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   text-align: left;
   margin: 1.5rem;
 }
@@ -25,7 +25,7 @@ h2 {
 p {
   display: inline-block;
   line-height: 1.5;
-  max-width: 25em; 
+  max-width: 25em;
 }
 
 .btn {

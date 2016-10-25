@@ -29,13 +29,13 @@ div h2 p {
 h2 {
   display: inline-block;
   line-height: 1.5;
-  padding: 0.4em 0.75em 0.5em;
+  padding: .4em .75em .5em;
 }
 
 p {
   display: inline-block;
   max-width: 25em;
-  padding: 0.4em 0.75em 0.5em;
+  padding: .4em .75em .5em;
 }
 
 a {
@@ -52,5 +52,5 @@ a {
   border-right: #333 solid;
   border-left: #333 solid;
   border-radius: 4px;
-  padding:0.4em 0.75em 0.5em;
+  padding: .4em .75em .5em;
 }

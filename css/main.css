@@ -21,6 +21,12 @@ body {
   vertical-align: middle;
 }
 
+p {
+  display: inline-block;
+  max-width: 25em;
+  padding: .4em .75em .5em;
+}
+
 div h2 p {
   display: inline;
   vertical-align: middle;
@@ -32,11 +38,7 @@ h2 {
   padding: .4em .75em .5em;
 }
 
-p {
-  display: inline-block;
-  max-width: 25em;
-  padding: .4em .75em .5em;
-}
+
 
 a {
   text-decoration: none;
